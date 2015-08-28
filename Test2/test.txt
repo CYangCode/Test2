@@ -4,10 +4,14 @@ using namespace std;
 int main()
 {
 	cout << "chenyang" << endl;
+<<<<<<< HEAD
 	cout << "chenyang" << endl;
 	cout << "chenyang" << endl;
 	cout << "chenyang" << endl;
 	cout << "chenyang" << endl;
 	cout << "chenyang" << endl;
+=======
+	cout << "hello" << endl;
+>>>>>>> origin/master
 	return 0;
 }
