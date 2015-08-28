@@ -9,5 +9,11 @@ int main()
 	cout << "chenyang" << endl;
 	cout << "chenyang" << endl;
 	cout << "chenyang" << endl;
+	cout << "chenyang" << endl;
+	cout << "chenyang" << endl;
+	cout << "chenyang" << endl;
+	cout << "chenyang" << endl;
+	cout << "chenyang" << endl;
+	cout << "chenyang" << endl;
 	return 0;
 }
